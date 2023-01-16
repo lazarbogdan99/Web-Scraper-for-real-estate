@@ -1,4 +1,4 @@
-Real Estate Market Analysis in Bucharest
+**Real Estate Market Analysis in Bucharest
 Description
 This project uses web scraping techniques to extract real estate listings from a popular Romanian website, and then uses the data to create visualizations and analyze trends in the Bucharest real estate market.
 
