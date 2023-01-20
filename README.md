@@ -5,9 +5,11 @@
 This project uses web scraping techniques to extract real estate listings from a popular Romanian website, and then uses the data to create <b> visualizations </b> and analyze <b> trends </b> in the Bucharest real estate market.
 
 <h2><b> Dependencies </b></h2>
+
 The project is built using Python 3 and the following libraries:
 
 Beautiful Soup (for web scraping)
+
 Altair (for data visualization)
 
 <h2><b> Note </b></h2>
