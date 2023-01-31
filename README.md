@@ -8,7 +8,7 @@ This project uses web scraping techniques to extract real estate listings from a
 
 The project is built using Python 3 and the following libraries:
 
-Beautiful Soup (for web scraping)
+Beautiful Soup or Scrapy (for web scraping)
 
 Altair (for data visualization)
 
